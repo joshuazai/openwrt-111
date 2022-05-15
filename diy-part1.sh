@@ -78,6 +78,9 @@ git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 #luci-app-adguardhome
 #git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 
+# udpxy
+svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-udpxy package/luci-app-udpxy
+
 ##############################################################################################
 
 # NAS
@@ -90,12 +93,6 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant 
 # 网络
 
 #Turbo ACC 加速 lede包已有
-
-##############################################################################################
-
-# udpxy
-
-svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-udpxy package/luci-app-udpxy
 
 ##############################################################################################
 
