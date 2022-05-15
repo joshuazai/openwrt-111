@@ -92,3 +92,10 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant 
 #Turbo ACC 加速 lede包已有
 
 ##############################################################################################
+
+# udpxy
+
+svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-udpxy package/luci-app-udpxy
+
+##############################################################################################
+
