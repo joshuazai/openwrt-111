@@ -83,13 +83,6 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-udpxy package/
 
 ##############################################################################################
 
-# NAS
-
-#文件助手
-#svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant package/luci-app-fileassistant
-
-##############################################################################################
-
 # 网络
 
 #Turbo ACC 加速 lede包已有
